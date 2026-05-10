@@ -1,0 +1,21 @@
+{
+  "name": "groceries",
+  "version": "1.0.0",
+  "description": "The inventory management system of your favorite local grocery store has broken\r down, and it has been a real headache for the owner to figure out. Luckily, you're\r around to offer your services!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsherPardel/groceries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AsherPardel/groceries/issues"
+  },
+  "homepage": "https://github.com/AsherPardel/groceries#readme"
+}
